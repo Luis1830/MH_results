@@ -1,6 +1,6 @@
 # MH_results
-The .cvs files for macro-homogeneous model for PEMFC is storaged here
 
+The .cvs files for the results of the macro-homogeneous PEMFC model with different bioinspired algorithms
 
 The files contains the results of our simulations:
 
