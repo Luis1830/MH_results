@@ -27,3 +27,5 @@ GA_Salva.csv     ---- Results of parameter estimation of 30 simulations with Gen
 PSO_Salva.csv    ---- Results of parameter estimation of 30 simulations with Particle Swarm Optimization
 
 UMDA_Salva.csv   ---- Results of parameter estimation of 30 simulations with UMDA^G
+
+Artículo enviado a revista indexada JCR, Soft Computing: Luis Blanco-Cocom, Salvador Botello-Rionda, L.C. Ordoñez, S. Ivvan Valdez, (2022), Design Optimization and Parameter Estimation of a PEMFC using Nature Inspired Algorithms.
